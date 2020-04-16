@@ -1,0 +1,92 @@
+body, html {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background: url(img/110b4d5488eb1b683a2024918d7668ce.jpg)
+    no-repeat center fixed;
+    background-size: cover;
+    font-family: Poppins, Helvetica, Arial, sans-serif;
+}
+
+h4,h3,h5,p{
+  color: white;  
+}
+
+h4{
+    margin-bottom: 25px;
+}
+
+h5{
+    font-size: 17px;
+}
+
+#texto p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+nav.navbar-dark {
+    padding: 1px 0;
+    background: #f5f5f5;
+    border-bottom: solid 2px #9932CC;
+ }
+
+.navbar-light .navbar-nav .nav-link {
+    color: #9932CC;
+    margin-left: 15px;
+ }
+
+ .navbar-dark .navbar-toggler {
+    color: #9932CC;
+    border-color: #9932CC;
+ }
+
+ .navbar-light .navbar-nav .nav-link:hover {
+    text-decoration: underline;
+    color: black;
+ }
+
+ #texto {
+     text-align: center;
+     padding-top: 50px;
+ }
+
+ .roxo {
+     color: #e424cf;
+ }
+
+ .img {
+    border-radius: 10px;
+ }
+
+ .btn {
+    text-align: center;
+    border-radius: 5px;
+    background-color: purple;
+    color: white;
+    border: 2px solid white;
+    margin-top: 10px;
+    margin-bottom: 30px;
+ }
+
+ #botao{ text-align: center } 
+
+ #email p{
+    margin-top: 5px;
+    margin-bottom: 25px; 
+    text-align: center;
+ }
+
+#lolcs {
+    background-color: black;
+    padding: 30px;
+}
+
+#email1 p{
+    margin-top: 20px;
+    margin-bottom: 25px; 
+    font-size: 15px;
+    text-align: center;
+ }
